@@ -1,5 +1,5 @@
 ---
-title: "CHE3166 - Process design"
+title: ""
 excerpt: ""
 collection: portfolio
 ---
