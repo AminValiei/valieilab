@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-The study of the microbial world, once shrouded in mystery, has been undergoing a transformative revolution in recent years, propelled by advancements in the experimental and computational realms. Our lab actively participates in this emerging research landscape by micro- and nanotechnology for in-vitro recapitulation of the cellular environment and cutting-edge computational approaches to model the behaviors of microbial systems. ![image](https://github.com/AminValiei/valieilab/assets/65982297/2814b58d-fc57-4404-8aba-5f12573ef8f6)
+The study of the microbial world, once shrouded in mystery, has been undergoing a transformative revolution in recent years, propelled by advancements in the experimental and computational realms. Our lab actively participates in both of these emerging research landscapes We utilize micro- and nanotechnology for in-vitro recapitulation of the cellular environment and cutting-edge computational approaches to model the behaviors of microbial systems. 
 
 
 A data-driven personal website
