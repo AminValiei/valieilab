@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+The study of the microbial world, once shrouded in mystery, has been undergoing a transformative revolution in recent years, propelled by advancements in the experimental and computational realms. Our lab actively participates in this emerging research landscape by micro- and nanotechnology for in-vitro recapitulation of the cellular environment and cutting-edge computational approaches to model the behaviors of microbial systems. ![image](https://github.com/AminValiei/valieilab/assets/65982297/2814b58d-fc57-4404-8aba-5f12573ef8f6)
+
 
 A data-driven personal website
 ======
