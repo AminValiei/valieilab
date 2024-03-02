@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-The study of the microbial world, once shrouded in mystery, has been undergoing a transformative revolution in recent years, propelled by advancements in the experimental and computational realms. Our lab actively participates in both of these emerging research landscapes We utilize micro- and nanotechnology for in-vitro recapitulation of the cellular environment and cutting-edge computational approaches to model the behaviors of microbial systems. 
+The study of the microbial world, once shrouded in mystery, has been undergoing a transformative revolution in recent years, driven by advancements in the experimental and computational realms. Our lab actively participates in both of these emerging research landscapes We utilize micro- and nanotechnology for in-vitro recapitulation of the cellular environment and cutting-edge computational approaches to model microbial behaviors. 
 
 
 A data-driven personal website
