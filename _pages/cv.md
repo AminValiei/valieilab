@@ -11,28 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Chemical Engineering, McGill University, 2017-2021
+* M.Sc. in Chemical Engineering, University of Alberta, 2010-2012
+* B.Sc. in Chemical Engineering, Sharif University of Technology, 2005-2010
 
-Work experience
+Academic positions
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Senior Lecturer, Chemical and Biological Engineering
+  *  Monash University, 2024-Present,
+* Postdoctoral Scholar, Mechanical Engineering and Bioengineering
+  * University of California, Berkeley, 2022-2024
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
+> Skills
 ======
 * Skill 1
 * Skill 2
