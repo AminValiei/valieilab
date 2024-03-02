@@ -1,4 +1,5 @@
 # main links links
+# main links links
 main:
   - title: "Publications"
     url: /publications/
@@ -12,11 +13,11 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
- - title: "Opportunities"
-    url: /opportunities/
+  - title: "Team Members"
+    url: /year-archive/
     
- - title: "CV"
+  - title: "CV"
     url: /cv/
     
-  - title: "Team Members"
-    url: /teammembers/
+  - title: "Guide"
+    url: /markdown/
