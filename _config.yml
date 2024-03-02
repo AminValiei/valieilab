@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "images.jpeg"
-  name             : ""
+  name             : "MCML Lab"
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Melbourne, Australia"
