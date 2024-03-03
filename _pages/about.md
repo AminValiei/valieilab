@@ -7,7 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-The study of the microbial world, once shrouded in mystery, has been undergoing a transformative revolution in recent years, driven by advancements in experimental and computational approaches. Our lab actively participates in emerging areas in both landscapes. We utilize micro- and nanotechnology for in-vitro recapitulation of the cellular environment and cutting-edge computational approaches to model microbial behaviors. We also use in-vivo models to test our hypotheses and pave the way for commercialization of microbial therapies.
+The study of the microbial world, once shrouded in mystery, has been undergoing a transformative revolution in recent years, driven by advancements in experimental and computational approaches. Our lab actively participates in emerging areas in both landscapes. We utilize micro- and nanotechnology for in-vitro recapitulation of the cellular environment. We use cutting-edge computational approaches to analyze microbial behaviors from an engineering-biology perspective. We finally use in-vivo models to test our hypotheses for medical therapies and use large scale setups to test our solutions for industrial applications.
+
+The importance of microbial modeling in the niche: The recent revolution of next-generation sequencing has enabled the characterization of microbial compositions with unprecedentedly high throughput. However, the large amount of data obtained through this method fails to capture the spatiotemporal attributes of microbial communities. A central emphasis of our research involves the development of micro-engineered devices, termed "microbiome-on-a-chip" or "biofilm-on-a-chip,"  to faithfully emulate the microenvironment of microbial communities. These devices enable the creation of physicochemical cues at a length scale comparable to the size of microbes. Considering the rapid advancement in analytical and microscopical techniques, it is possible to record and understand microbial activity at the subcellular level with unprecedented resolution. With this approach, it is possible to dissect the microbial complexity and find the functional roles of each phenotype or genotype. This provides a unique tool to optimize microbial systems for myriad environmental, medical, and industrial applications that rely on microbial communities.
+
+
+
+
+
+
 
 
 
