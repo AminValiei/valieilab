@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Microbial Communities and Microbiome (MCML) Lab!"
+title: "Welcome to the Microbial Communities and Microbiome (MCML) Lab!"
 author_profile: true
 redirect_from: 
   - /about/
