@@ -16,7 +16,7 @@ The study of the microbial world, once shrouded in mystery, has been undergoing 
 **Hypothesis-driven discovery of microbial solutions**: Microbial communities have extensive applications in healthcare and industry. In agriculture, microbes are essential elements in nutrient cycling and plant health. Our body is also home to an extremely diverse microbial community called the human microbiome. There is strong evidence that the human microbiome plays a critical role in our health. The disruption of the microbiome, known as dysbiosis, is a precursor to various diseases, from gastrointestinal disorders to cardiovascular diseases, and even impacts brain function and human psychology. In all these systems, the performance of the microbiome is essential to the functionality of the entire system. By developing in-vitro and in-silico models, it is possible to gain a bottom-up approach to these interactions and devise new solutions (e.g., new therapeutic techniques). Ultimately, these solutions must be tested in real life. To this end, we use various in vivo models for evaluating the efficacy of microbial therapies we develop. We also test the scalability of our solutions for environmental and industrial applications in the lab by building appropriate models.
 
 
-![Microbiome Applications](/images/image84686.png)
+![Microbiome Applications](/images/microbiome.jpeg)
 
 
 
