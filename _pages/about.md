@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the Microbial Communities and Microbiome (MCML) Research Group!"
+title: "Welcome to the Microbiome and Microbial Communities (MMC) Research Group!"
 author_profile: true
 redirect_from: 
   - /about/
