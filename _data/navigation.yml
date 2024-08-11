@@ -14,7 +14,7 @@ main:
     url: /portfolio/
         
   - title: "Team Members"
-    url: /year-archive/
+    url: /TeamMembers/
     
   - title: "CV"
     url: /cv/
