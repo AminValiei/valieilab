@@ -1,5 +1,5 @@
 ---
-title: "To be updated"
+title: ""
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
