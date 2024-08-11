@@ -17,7 +17,7 @@ Education
 
 Academic positions
 ======
-* Senior Lecturer, Chemical and Biological Engineering
+* Incoming Senior Lecturer, Chemical and Biological Engineering
   *  Monash University, upcoming 2024,
 * Postdoctoral Scholar, Mechanical Engineering and Bioengineering
   * University of California, Berkeley, 2022-present
