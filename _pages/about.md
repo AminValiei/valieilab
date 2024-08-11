@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the Microbiome and Microbial Communities (MMC) Research Group!"
+title: "Welcome to the Incoming Microbiome and Microbial Communities (MMC) Research Group!"
 author_profile: true
 redirect_from: 
   - /about/
