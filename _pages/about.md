@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the Incoming Microbiome and Microbial Communities (MMC) Research Group!"
+title: "Welcome to the Microbial Communities for Health and Sustainability Research Group!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-**Research themes**
+**Research Themes**
 
 **Addressing the Emerging Issue of Antibiotic Resistance:** Antimicrobial resistance (AMR) is projected to be a major healthcare challenge in the next 50 years. While resistance mechanisms in single species are well-understood, microbial community responses to antibiotics are less predictable. Bacteria in biofilms are protected from antibiotics and engage in multispecies interactions that promote survival, while horizontal gene transfer spreads resistance.
 
