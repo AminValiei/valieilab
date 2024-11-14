@@ -29,10 +29,6 @@ Our approach provides a foundation for linking an individual’s microbiome to t
 
 
 
-The study of the microbial world, once shrouded in mystery, has been undergoing a transformative revolution in recent years, driven by advancements in experimental and computational approaches. Our lab actively participates in emerging areas in both landscapes. We utilize micro- and nanotechnology for in-vitro recapitulation of the cellular environment. We use cutting-edge computational approaches to analyze microbial behaviors from a combined engineering-biology perspective. We finally use in-vivo models to test our hypotheses for medical therapies and use large scale setups to test solutions for industrial applications.
-
-
-
 <!-- ![Microbiome Applications](/images/images.jpeg){width=300px style="float: right;"}-->
 
 
