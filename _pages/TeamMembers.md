@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Team Members
-permalink: /team-members/
+permalink: /TeamMembers/
 ---
 
 ## Our Team
