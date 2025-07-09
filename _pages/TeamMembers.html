@@ -1,4 +1,13 @@
-Nasim Mohseni (PHD Student)
-Samin (Tabassom) Tokasi (PHD Student)
-Joshua Wright (Undergraduate Student)
-Zac Byrch (Undergraduate Student)
+layout: archive
+title: "TeamMembers"
+permalink: /TeamMembers/
+author_profile: true
+---
+
+{% include base_path %}
+Nasim Mohseni (PhD Student)
+Samin (Tabassom) Tokasi (PhD Student)
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
