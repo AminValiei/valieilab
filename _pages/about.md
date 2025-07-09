@@ -9,6 +9,11 @@ redirect_from:
 
 
 **Research Themes**
+**Engineering Microbial Communities for Human Microbiome Therapies:** The gut microbiome is a highly diverse ecosystem that varies significantly between individuals. A loss of diversity and integrity in the microbiome is a key factor in microbiome-related diseases, but the underlying mechanisms are not fully understood. My research group applies chemical and biological engineering principles to better understand this complex system and develop microbial therapies poised to play a major role in the pharmaceutical and biomedical industries.
+
+To study microbial effects, we recapitulate the gut microenvironment using gut microbiome-on-a-chip systems. These microfluidic devices simulate fluid flow, oxygenation, peristalsis, and host-microbe interactions at the microbial scale. Integrated with advanced microscopy and analytics, these systems allow us to investigate microbial community composition, structural properties, and the effects of perturbations.
+
+Our approach provides a foundation for linking an individual’s microbiome to their health through precision medicine. We explore microbial therapies, including prebiotics, probiotics, and microbial transplants, to develop preventive and therapeutic strategies for diseases like cancer, inflammatory bowel disease, and non-alcoholic fatty liver disease, all of which are strongly linked to microbiome imbalances.
 
 **Addressing the Emerging Issue of Antibiotic Resistance:** Antimicrobial resistance (AMR) is projected to be a major healthcare challenge in the next 50 years. While resistance mechanisms in single species are well-understood, microbial community responses to antibiotics are less predictable. Bacteria in biofilms are protected from antibiotics and engage in multispecies interactions that promote survival, while horizontal gene transfer spreads resistance.
 
@@ -20,11 +25,7 @@ Microbial communities thrive on cooperation, which can be leveraged to improve p
 
 In our lab we aim to enhance bioprocesses by engineering microbial communities. By pairing strains with complementary functions and understanding their metabolic interactions, we can optimize efficiency and predict outcomes. We  design scalable, efficient processes, considering factors like microbial interactions, timing, and process design. This approach enables the development of advanced bioprocesses and bioremediation systems
 
-**Engineering Microbial Communities for Gut Microbiome Therapies:** The gut microbiome is a highly diverse ecosystem that varies significantly between individuals. A loss of diversity and integrity in the microbiome is a key factor in microbiome-related diseases, but the underlying mechanisms are not fully understood. My research group applies chemical and biological engineering principles to better understand this complex system and develop microbial therapies poised to play a major role in the pharmaceutical and biomedical industries.
 
-To study microbial effects, we recapitulate the gut microenvironment using gut microbiome-on-a-chip systems. These microfluidic devices simulate fluid flow, oxygenation, peristalsis, and host-microbe interactions at the microbial scale. Integrated with advanced microscopy and analytics, these systems allow us to investigate microbial community composition, structural properties, and the effects of perturbations.
-
-Our approach provides a foundation for linking an individual’s microbiome to their health through precision medicine. We explore microbial therapies, including prebiotics, probiotics, and microbial transplants, to develop preventive and therapeutic strategies for diseases like cancer, inflammatory bowel disease, and non-alcoholic fatty liver disease, all of which are strongly linked to microbiome imbalances.
 
 
 
