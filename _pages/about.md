@@ -9,6 +9,7 @@ redirect_from:
 
 
 **Research Themes**
+
 **Engineering Microbial Communities for Human Microbiome Therapies:** The gut microbiome is a highly diverse ecosystem that varies significantly between individuals. A loss of diversity and integrity in the microbiome is a key factor in microbiome-related diseases, but the underlying mechanisms are not fully understood. My research group applies chemical and biological engineering principles to better understand this complex system and develop microbial therapies poised to play a major role in the pharmaceutical and biomedical industries.
 
 To study microbial effects, we recapitulate the gut microenvironment using gut microbiome-on-a-chip systems. These microfluidic devices simulate fluid flow, oxygenation, peristalsis, and host-microbe interactions at the microbial scale. Integrated with advanced microscopy and analytics, these systems allow us to investigate microbial community composition, structural properties, and the effects of perturbations.
