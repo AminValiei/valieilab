@@ -1,9 +1,12 @@
 ---
-layout: default
+layout: archive
 title: Team Members
 permalink: /TeamMembers/
 ---
 
 ## Our Team
 
-We're currently building our team. Stay tuned!
+Nasim Mohseni (PhD Student)
+Samin Tokasi (PhD Student)
+Joshua Wright (Undergraduate Student)
+Zac Byrch (Undergraduate Student)
