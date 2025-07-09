@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Chief Investigator CV
+======
+
 Education
 ======
 * Ph.D in Chemical Engineering, McGill University, 2017-2021
