@@ -1,5 +1,5 @@
 ---
-title: "Process Design"
+title: "Process Design (CHE3166)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
