@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "images.jpeg"
-  name             : "MMC Lab"
+  name             : "MCHS Lab"
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Melbourne, Australia"
   employer         : "Monash University"
   uri              : # URL
-  email            : "valiei1987@gmail.com" 
+  email            : "amin.valiei@monash.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
