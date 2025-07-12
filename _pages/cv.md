@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Dr. Amin Valiei
+======
+
 <img src="{{ site.baseurl }}/images/Amin2.jpg" alt="Alt Text" style="width:300px; height:auto;">
 
 Education
