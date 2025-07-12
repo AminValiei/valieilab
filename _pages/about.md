@@ -16,6 +16,8 @@ To study microbial effects, we recapitulate the gut microenvironment using gut m
 
 Our approach provides a foundation for linking an individual’s microbiome to their health through precision medicine. We explore microbial therapies, including prebiotics, probiotics, and microbial transplants, to develop preventive and therapeutic strategies for diseases like cancer, inflammatory bowel disease, and non-alcoholic fatty liver disease, all of which are strongly linked to microbiome imbalances.
 
+![Alt text](/images/gutmicrobiome.jpg)
+
 **Addressing the Emerging Issue of Antibiotic Resistance:** Antimicrobial resistance (AMR) is projected to be a major healthcare challenge in the next 50 years. While resistance mechanisms in single species are well-understood, microbial community responses to antibiotics are less predictable. Bacteria in biofilms are protected from antibiotics and engage in multispecies interactions that promote survival, while horizontal gene transfer spreads resistance.
 
 A key research focus of our group is understanding antibiotic resistance dynamics in microbial communities. Using microfluidic devices, we control stressors and predict microbial responses. Our goal is to develop targeted antimicrobial strategies, including formulations that selectively target harmful organisms. For cases requiring complete eradication, such as implant-associated infections, we employ nanotextured surfaces to induce mechanical microbial rupture. By integrating chemical and physical approaches, we aim to enhance antimicrobial effectiveness.
