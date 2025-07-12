@@ -23,6 +23,8 @@ Our approach provides a foundation for linking an individual’s microbiome to t
 
 A key research focus of our group is understanding antibiotic resistance dynamics in microbial communities. Using microfluidic devices, we control stressors and predict microbial responses. Our goal is to develop targeted antimicrobial strategies, including formulations that selectively target harmful organisms. For cases requiring complete eradication, such as implant-associated infections, we employ nanotextured surfaces to induce mechanical microbial rupture. By integrating chemical and physical approaches, we aim to enhance antimicrobial effectiveness.
 
+![Alt Text]({{ site.baseurl }}/images/rect604.png)
+
 **Development of Microbial Formulations for Environmental Applications and Bioprocesses:** Advances in sequencing technologies are revolutionizing microbial applications, enabling new approaches to environmental and bioprocess development. As the circular economy grows, bioprocessing and waste management efforts are critical. However, microbial identification alone is not enough; we must also understand their interactions within communities and ecosystems.
 
 Microbial communities thrive on cooperation, which can be leveraged to improve processes like bioremediation. Traditional bioremediation design methods often rely on trial and error, leading to inefficiencies due to microbial task redundancy and competition. Many industrial bioprocesses use single-species formulations, which require extensive strain modifications.
