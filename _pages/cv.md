@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Chemical Engineering, McGill University, 2017-2021
+* Ph.D in Chemical Engineering, McGill University, 2017-2022
 * M.Sc. in Chemical Engineering, University of Alberta, 2010-2012
 * B.Sc. in Chemical Engineering, Sharif University of Technology, 2005-2010
 
