@@ -12,8 +12,8 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://aminvaliei.github.io/valieilab/
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://aminvaliei.github.io"
+baseurl                  : "/valieilab" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
