@@ -18,11 +18,16 @@ Our approach provides a foundation for linking an individual’s microbiome to t
 
 
 ![Alt Text]({{ site.baseurl }}/images/gutmicrobiome.jpg)
+
+The use of microfluid system allows to unqiutely capture the physics of microbial communities. For example the below study from Valiei et al. Lab on a Chip 12 (24), 5133-5137 demonstrates the formation of biofilm streamers.
+
 ![Alt Text]({{ site.baseurl }}/images/rect6323.png)
 
 **Addressing the Emerging Issue of Antibiotic Resistance:** Antimicrobial resistance (AMR) is projected to be a major healthcare challenge in the next 50 years. While resistance mechanisms in single species are well-understood, microbial community responses to antibiotics are less predictable. Bacteria in biofilms are protected from antibiotics and engage in multispecies interactions that promote survival, while horizontal gene transfer spreads resistance.
 
 A key research focus of our group is understanding antibiotic resistance dynamics in microbial communities. Using microfluidic devices, we control stressors and predict microbial responses. Our goal is to develop targeted antimicrobial strategies, including formulations that selectively target harmful organisms. For cases requiring complete eradication, such as implant-associated infections, we employ nanotextured surfaces to induce mechanical microbial rupture. By integrating chemical and physical approaches, we aim to enhance antimicrobial effectiveness.
+
+The below image is from a study conducted by Valiei* & Lin* who demonstrated a new physics by which surface tension can kill bacteria on nanopillars.
 
 ![Alt Text]({{ site.baseurl }}/images/rect604.png)
 
