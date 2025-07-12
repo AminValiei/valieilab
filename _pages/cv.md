@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+![Alt Text]({{ site.baseurl }}/images/Amin2.jpg)
 
 Education
 ======
