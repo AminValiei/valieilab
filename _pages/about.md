@@ -21,7 +21,7 @@ Our approach provides a foundation for linking an individual’s microbiome to t
 
 The use of microfluidic systems uniquely capture the physics of microbial communities. For example, the study by Valiei et al. (Lab on a Chip, 12(24), 5133–5137) demonstrates the formation of biofilm streamers.
 
-![Alt Text]({{ site.baseurl }}/images/rect6323.png)
+![Alt Text]({{ site.baseurl }}/images/streamers.jpg)
 
 **Addressing the Emerging Issue of Antibiotic Resistance:** Antimicrobial resistance (AMR) is projected to be a major healthcare challenge in the next 50 years. While resistance mechanisms in single species are well-understood, microbial community responses to antibiotics are less predictable. Bacteria in biofilms are protected from antibiotics and engage in multispecies interactions that promote survival, while horizontal gene transfer spreads resistance.
 
