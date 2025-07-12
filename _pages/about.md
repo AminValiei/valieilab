@@ -27,7 +27,7 @@ The use of microfluidic systems uniquely capture the physics of microbial commun
 
 A key research focus of our group is understanding antibiotic resistance dynamics in microbial communities. Using microfluidic devices, we control stressors and predict microbial responses. Our goal is to develop targeted antimicrobial strategies, including formulations that selectively target harmful organisms. For cases requiring complete eradication, such as implant-associated infections, we employ nanotextured surfaces to induce mechanical microbial rupture. By integrating chemical and physical approaches, we aim to enhance antimicrobial effectiveness.
 
-The image below is from a study by Valiei and Lin (Nano Letters 20 (8), 5720-5727), who demonstrated a novel physical mechanism by which surface tension can kill bacteria on nanopillars.
+The image below is from a study by Valiei and Lin et al. (Nano Letters 20 (8), 5720-5727), who demonstrated a novel physical mechanism by which surface tension can kill bacteria on nanopillars.
 
 ![Alt Text]({{ site.baseurl }}/images/rect604.png)
 
