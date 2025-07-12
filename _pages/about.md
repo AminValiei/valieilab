@@ -40,7 +40,7 @@ Microbial communities thrive on cooperation, which can be leveraged to improve p
 In our lab we aim to enhance bioprocesses by engineering microbial communities. By pairing strains with complementary functions and understanding their metabolic interactions, we can optimize efficiency and predict outcomes. We  design scalable, efficient processes, considering factors like microbial interactions, timing, and process design. This approach enables the development of advanced bioprocesses and bioremediation systems
 
 
-
+![Alt Text]({{ site.baseurl }}/images/soil.jpg)
 
 
 
