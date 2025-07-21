@@ -18,7 +18,7 @@ permalink: /TeamMembers/
   <br> Minor, Polymer Engineering and Color Technology-Polymer Industries, Amirkabir University of Technology
 
   <figure style="text-align: center;">
-    <img src="{{ site.baseurl }}/images/researcher.jpg.jpg" alt="" style="width:300px; height:auto;">
+    <img src="{{ site.baseurl }}/images/researcher.jpg" alt="" style="width:300px; height:auto;">
     <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
   </figure>
 
@@ -35,7 +35,7 @@ permalink: /TeamMembers/
   <br> B.Sc. in Electrical and Computer Systems Engineering, Monash University
 
   <figure style="text-align: center;">
-    <img src="{{ site.baseurl }}/images/researcher.jpg.jpg" alt="" style="width:300px; height:auto;">
+    <img src="{{ site.baseurl }}/images/researcher.jpg" alt="" style="width:300px; height:auto;">
     <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
   </figure>
   
@@ -43,6 +43,6 @@ permalink: /TeamMembers/
   <br> B.Sc. in Chemical and Biological Engineering, Monash University
 
   <figure style="text-align: center;">
-    <img src="{{ site.baseurl }}/images/researcher.jpg.jpg" alt="" style="width:300px; height:auto;">
+    <img src="{{ site.baseurl }}/images/researcher.jpg" alt="" style="width:300px; height:auto;">
     <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
   </figure>
