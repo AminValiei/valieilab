@@ -6,7 +6,7 @@ permalink: /TeamMembers/
 
 ## Our Team
 - Amin Valiei (Principal Investigator)
-  <br> see the CV tab
+  <br> see the CV tab for PI
   <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/images/Amin2.jpg" alt="" style="width:300px; height:auto;">
     <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
