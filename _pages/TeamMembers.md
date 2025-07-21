@@ -25,7 +25,9 @@ permalink: /TeamMembers/
   <img src="{{ site.baseurl }}/images/Samin.jpg" alt="" style="width:300px; height:auto;">
   <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
 </figure>
+
 - Joshua Wright (Undergraduate Student)
   <br> B.Sc. in Electrical and Computer Systems Engineering, Monash University
+  
 - Zachary Bereszkowski (Undergraduate Student)
   <br> B.Sc. in Chemical and Biological Engineering, Monash University
