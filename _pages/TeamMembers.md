@@ -17,6 +17,11 @@ permalink: /TeamMembers/
   <br> B.Sc., Biomedical Engineering-Biomaterials, Amirkabir University of Technology
   <br> Minor, Polymer Engineering and Color Technology-Polymer Industries, Amirkabir University of Technology
 
+  <figure style="text-align: center;">
+    <img src="{{ site.baseurl }}/images/researcher.jpg.jpg" alt="" style="width:300px; height:auto;">
+    <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
+  </figure>
+
 - Samin (Tabassom) Tokasi (PhD Student)
   <br> M.Sc., Biotechnology Engineering, University of Tehran
   <br> B.Sc., Chemical Engineering, University of Tehran
@@ -28,6 +33,16 @@ permalink: /TeamMembers/
 
 - Joshua Wright (Undergraduate Student)
   <br> B.Sc. in Electrical and Computer Systems Engineering, Monash University
+
+  <figure style="text-align: center;">
+    <img src="{{ site.baseurl }}/images/researcher.jpg.jpg" alt="" style="width:300px; height:auto;">
+    <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
+  </figure>
   
 - Zachary Bereszkowski (Undergraduate Student)
   <br> B.Sc. in Chemical and Biological Engineering, Monash University
+
+  <figure style="text-align: center;">
+    <img src="{{ site.baseurl }}/images/researcher.jpg.jpg" alt="" style="width:300px; height:auto;">
+    <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
+  </figure>
