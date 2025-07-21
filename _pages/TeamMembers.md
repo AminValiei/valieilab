@@ -7,10 +7,10 @@ permalink: /TeamMembers/
 ## Our Team
 - Amin Valiei (Principal Investigator)
   <br> see the CV tab
-<figure style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/Amin2.jpg" alt="" style="width:300px; height:auto;">
-  <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
-</figure>
+  <figure style="text-align: center;">
+    <img src="{{ site.baseurl }}/images/Amin2.jpg" alt="" style="width:300px; height:auto;">
+    <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
+  </figure>
   
 - Nasim Mohseni (PhD Student)
   <br> M.Sc., Biomedical Engineering-Tissue Engineering, Amirkabir University of Technology 
@@ -22,9 +22,9 @@ permalink: /TeamMembers/
   <br> B.Sc., Chemical Engineering, University of Tehran
 
   <figure style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/Samin.jpg" alt="" style="width:300px; height:auto;">
-  <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
-</figure>
+    <img src="{{ site.baseurl }}/images/Samin.jpg" alt="" style="width:300px; height:auto;">
+    <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
+  </figure>
 
 - Joshua Wright (Undergraduate Student)
   <br> B.Sc. in Electrical and Computer Systems Engineering, Monash University
