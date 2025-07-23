@@ -16,6 +16,7 @@ permalink: /TeamMembers/
   <br> M.Sc., Biomedical Engineering-Tissue Engineering, Amirkabir University of Technology 
   <br> B.Sc., Biomedical Engineering-Biomaterials, Amirkabir University of Technology
   <br> Minor, Polymer Engineering and Color Technology-Polymer Industries, Amirkabir University of Technology
+  <br> Nasim is a Ph.D. student at Monash University, developing a gut-on-a-chip system to uncover what goes down between the gut microbiome and tumor cells. Her background     is in biomedical and tissue engineering, where she worked on 3D bioinks,         cancer   immunotherapy, and nanoparticle-based biosensors. She lives at the crossroads of biology and engineering. She is all about building methods that help us       understand disease   from the inside out. 
 
   <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/images/Nasim.jpg" alt="" style="width:300px; height:auto;">
