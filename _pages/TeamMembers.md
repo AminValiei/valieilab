@@ -26,6 +26,7 @@ permalink: /TeamMembers/
 - Samin (Tabassom) Tokasi (PhD Student)
   <br> M.Sc., Biotechnology Engineering, University of Tehran
   <br> B.Sc., Chemical Engineering, University of Tehran
+  <br> Samin has a strong curiosity about the microscopic world, she is passionate about exploring biomedical applications, particularly the roles of microorganisms  and cells in health and disease. Currently, she is pursuing her PhD at Monash University, where her research focuses on engineering microbial communities to develop innovative gut microbiome therapies. Beyond the lab, Samin enjoys outdoor activities and spending time with friends.
 
   <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/images/Samin.jpg" alt="" style="width:300px; height:auto;">
