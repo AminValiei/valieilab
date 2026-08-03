@@ -12,28 +12,14 @@ permalink: /TeamMembers/
     <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
   </figure>
   
+- Primary Supervison
+
 - Hansaem Kim (PhD Student, Aug 2026 - present)
 
   <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/images/researcher.jpg" alt="" style="width:300px; height:auto;">
     <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
   </figure>
-  
-- Aisyah Siti Nuraisyah Binte Nordin (May 2026 - present) Cosupervising (Main supervisor: Gil Garnier)
-
-  <figure style="text-align: center;">
-    <img src="{{ site.baseurl }}/images/researcher.jpg" alt="" style="width:300px; height:auto;">
-    <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
-  </figure>
-  
-  
-- Boyu Liu (PhD Student, February 2026 - present) - Co-supervising (Main Supervisor: Warren Bechelor)
-  
-  <figure style="text-align: center;">
-    <img src="{{ site.baseurl }}/images/researcher.jpg" alt="" style="width:300px; height:auto;">
-    <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
-  </figure>
-  
 
 - Zasia Hossain Tishe (PhD Student, February 2026 - present)
   <br> Master of Pharmacy in Pharmacology and Clinical Pharmacy, North South University, Bangladesh 
@@ -52,6 +38,23 @@ permalink: /TeamMembers/
 
   <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/images/Samin.jpg" alt="" style="width:300px; height:auto;">
+    <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
+  </figure>
+
+- Cosupervisions
+   
+- Aisyah Siti Nuraisyah Binte Nordin (May 2026 - present) Cosupervising (Main supervisor: Gil Garnier)
+
+  <figure style="text-align: center;">
+    <img src="{{ site.baseurl }}/images/researcher.jpg" alt="" style="width:300px; height:auto;">
+    <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
+  </figure>
+  
+  
+- Boyu Liu (PhD Student, February 2026 - present) - Co-supervising (Main Supervisor: Warren Bechelor)
+  
+  <figure style="text-align: center;">
+    <img src="{{ site.baseurl }}/images/researcher.jpg" alt="" style="width:300px; height:auto;">
     <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
   </figure>
 
