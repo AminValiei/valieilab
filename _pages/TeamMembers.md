@@ -22,7 +22,7 @@ permalink: /TeamMembers/
   <br> Zasia Hossain Tishe is a PhD candidate in Chemical and Biological Engineering at Monash University, Australia, with a strong foundation in pharmacology, pharmacogenomics, and inflammation research. She previously conducted multidisciplinary research on inflammatory disease models, gene polymorphisms, and drug development, contributing to several peer-reviewed publications . Her current work focuses on microfluidic colon-on-a-chip systems and microbial biofilm dynamics to explore gut microbiome-based therapies
   
   <figure style="text-align: center;">
-    <img src="{{ site.baseurl }}/images/Nasim.jpg" alt="" style="width:300px; height:auto;">
+    <img src="{{ site.baseurl }}/images/Tishe.jpeg" alt="" style="width:300px; height:auto;">
     <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
   </figure>
 
