@@ -13,9 +13,9 @@ permalink: /TeamMembers/
   </figure>
   
 - Hansaem Kim (PhD Student, Aug 2026 - present)
+- Aisyah Siti Nuraisyah Binte Nordin (May 2026 - present) Cosupervising (Main supervisor: Gil Garnier)
+- Boyu Liu (PhD Student, February 2026 - present) - Co-supervising (Main Supervisor: Warren Bechelor)
 
-
-  
 - Zasia Hossain Tishe (PhD Student, February 2026 - present)
   <br> Master of Pharmacy in Pharmacology and Clinical Pharmacy, North South University, Bangladesh 
   <br> Bachelor of Pharmacy, North South University, Bangladesh 
