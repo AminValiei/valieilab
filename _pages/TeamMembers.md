@@ -58,19 +58,27 @@ permalink: /TeamMembers/
     <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
   </figure>
 
-- Tom Odale (Undergraduate Student, 2026)
-  <br> B.Sc. in Chemical Engineering, Monash University
+- Dania Sun (PhD Student, February 2026 - present) - Co-supervising (Main Supervisor: Priya Samudrala)
   
   <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/images/researcher.jpg" alt="" style="width:300px; height:auto;">
     <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
   </figure>
 
+
   ## Undergraduate Students
 
  - Max Murphy (Undergraduate Student, 2026)
   <br> B.Sc. in Chemical Engineering, Monash University
 
+  <figure style="text-align: center;">
+    <img src="{{ site.baseurl }}/images/researcher.jpg" alt="" style="width:300px; height:auto;">
+    <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
+  </figure>
+
+  - Tom Odale (Undergraduate Student, 2026)
+  <br> B.Sc. in Chemical Engineering, Monash University
+  
   <figure style="text-align: center;">
     <img src="{{ site.baseurl }}/images/researcher.jpg" alt="" style="width:300px; height:auto;">
     <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
