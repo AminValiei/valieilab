@@ -12,7 +12,7 @@ permalink: /TeamMembers/
     <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
   </figure>
   
-- Primary Supervison
+## Primary Supervision
 
 - Hansaem Kim (PhD Student, Aug 2026 - present)
 
@@ -41,7 +41,7 @@ permalink: /TeamMembers/
     <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
   </figure>
 
-- Cosupervisions
+## Co-supervision
    
 - Aisyah Siti Nuraisyah Binte Nordin (May 2026 - present) Cosupervising (Main supervisor: Gil Garnier)
 
@@ -65,7 +65,8 @@ permalink: /TeamMembers/
     <img src="{{ site.baseurl }}/images/researcher.jpg" alt="" style="width:300px; height:auto;">
     <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
   </figure>
-  
+
+  ## Undergraduate Students
 
  - Max Murphy (Undergraduate Student, 2026)
   <br> B.Sc. in Chemical Engineering, Monash University
@@ -83,7 +84,7 @@ permalink: /TeamMembers/
     <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
   </figure>
   
-
+## Alumini
 - Joshua Wright (Undergraduate Student, 2025)
   <br> B.Sc. in Electrical and Computer Systems Engineering, Monash University
 
