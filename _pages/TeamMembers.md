@@ -36,7 +36,16 @@ permalink: /TeamMembers/
     <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
   </figure>
 
-- Joshua Wright (Undergraduate Student)
+- Tom Odale (Undergraduate Student, 2026)
+  <br> B.Sc. in Chemical Engineering, Monash University
+
+ - Max Murphy (Undergraduate Student, 2026)
+  <br> B.Sc. in Chemical Engineering, Monash University
+
+ - Victoria Zikas (Undergraduate Student, 2026)
+  <br> B.Sc. in Mechanical Engineering, Monash University
+
+- Joshua Wright (Undergraduate Student, 2025)
   <br> B.Sc. in Electrical and Computer Systems Engineering, Monash University
 
   <figure style="text-align: center;">
@@ -44,7 +53,7 @@ permalink: /TeamMembers/
     <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
   </figure>
   
-- Zachary Bereszkowski (Undergraduate Student)
+- Zachary Bereszkowski (Undergraduate Student, 2025)
   <br> B.Sc. in Chemical and Biological Engineering, Monash University
 
   <figure style="text-align: center;">
