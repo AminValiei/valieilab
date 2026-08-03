@@ -12,6 +12,10 @@ permalink: /TeamMembers/
     <figcaption style="font-style: italic; font-size: 0.9em; color: #555;"></figcaption>
   </figure>
   
+- Hansaem Kim (PhD Student, Aug 2026 - present)
+
+
+  
 - Zasia Hossain Tishe (PhD Student, February 2026 - present)
   <br> Master of Pharmacy in Pharmacology and Clinical Pharmacy, North South University, Bangladesh 
   <br> Bachelor of Pharmacy, North South University, Bangladesh 
